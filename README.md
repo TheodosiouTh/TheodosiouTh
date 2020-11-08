@@ -1,6 +1,5 @@
 ## Hi there I'm Thanos Theodosiou 👋
 
-<hr>
 <center>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=theodosiouth) [![Github](https://img.shields.io/github/followers/theodosiouth?label=Followers&logo=Github)](https://github.com/theodosiouth)
@@ -21,7 +20,6 @@
 
 ## 🎓 I am a Software Engineer with a BSc in Computer Science, that has a passion for solving difficult problems and making the Human-Computer interaction easier.
 
-<hr>
 
 - 🛠️ I work as a Backend developer for Desquared!
 - 🔭 I’m currently working on my [Personal Blog][website]!
@@ -33,7 +31,6 @@
 
 ## Languages & Tools I use:
 
-<hr>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
