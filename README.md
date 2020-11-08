@@ -6,14 +6,12 @@
 
 </center>
 
-<center>
 <br />
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=theodosiouth&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=theodosiouth&count_private=true&show_icons=true&theme=tokyonight" />
+<p align="center">
+<a  href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=theodosiouth&count_private=true&show_icons=true&theme=tokyonight">
+  <img  src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=theodosiouth&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-</div>
-</center>
+</p>
 
 <br />
 <br />
