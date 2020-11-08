@@ -18,7 +18,6 @@
 
 ## 🎓 I am a Software Engineer with a BSc in Computer Science, that has a passion for solving difficult problems and making the Human-Computer interaction easier.
 
-
 - 🛠️ I work as a Backend developer for Desquared!
 - 🔭 I’m currently working on my [Personal Blog][website]!
 - 🌱 I’m currently learning Node JS and React.
