@@ -19,7 +19,7 @@
 ## 🎓 I am a Software Engineer with a BSc in Computer Science, with a passion for solving difficult problems.
 
 - 🛠️ I work as a Backend developer for Desquared!
-- 🔭 I’m currently working on my [NeuralCar][CurrentProject]!
+- 🔭 I’m currently working on [NeuralCar][CurrentProject]!
 - 🌱 I’m currently learning Node JS and React.
 - 📫 You can reach me via [email](mailto:thanosthd@gmail.com?subject=[GitHub]).
 
